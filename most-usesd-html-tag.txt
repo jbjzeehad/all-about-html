@@ -1,0 +1,25 @@
+>> commonly used HTML tags
+
+1. <!DOCTYPE>
+2. <html></html>
+3. <head></head>
+4. <title></title>
+5. <body></body>
+6. <h1></h1> to <h6></h6>
+7. <p></p>
+8. <b></b>
+9. <i></i>
+10. <u></u>
+11. <center></center>
+12. <span></span>
+13. <div></div>
+14. <em></em>
+15. <sup></sup>
+16. <sub></sub>
+17. <br>
+18. <ol></ol>
+19. <li></li>
+20. <img src="">
+21. <small></small>
+22. <strike></strike>
+23. 
